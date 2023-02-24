@@ -4,7 +4,7 @@
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 [![Discord](https://discord.com/api/guilds/571393319201144843/widget.png)](https://discord.gg/dRwW4rw)
 
-# Coming soon
+# Start
 
 _website design project_
 
@@ -14,7 +14,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://irinavaronka.github.io/6-projektas-coming-soon/
+Site published at: https://irinavaronka.github.io/11-projectas-figma/
 
 Design: [Start](https://www.figma.com/file/uy1jUWN0N09HSApvSTfb3q/FE-Start-Task?node-id=0%3A1)
 
