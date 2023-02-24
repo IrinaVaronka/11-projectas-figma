@@ -1,0 +1,58 @@
+.header {
+    padding-top: 0;
+    padding-bottom: 0;
+
+}
+.header > .row {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.header .header-content {
+    display: flex;
+    gap: 35px;
+    align-items: center;
+}
+.header  .right {
+    margin-right: auto;
+    display: flex;
+    align-items: center;
+    
+}
+
+.header  .right > p {
+    text-transform: capitalize;
+    color: white;
+    font-weight: 500;
+    font-size: 40px;
+    letter-spacing: 3px;
+    justify-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 20px;
+    
+    
+
+}
+
+.main-nav {
+    display: flex;
+    gap: 1.6em;
+}
+.main-nav > a {
+    text-decoration: none;
+    text-transform: capitalize;
+    color: white;
+    font-weight: 300;
+    font-size: 24px;
+}
+
+
+.hamburger {
+    font-size: 24px;
+    border: none;
+    background: transparent;
+    position: absolute;
+    top: -15;
+    right: 0;
+    margin-right: 15px;
+    cursor: pointer;
+}

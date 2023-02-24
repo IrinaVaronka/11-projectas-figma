@@ -1,0 +1,157 @@
+/* base */
+@import '../base/base.css';
+@import '../base/layout.css';
+/* 3rd-party */
+@import '../3rd-party/font-awesome.min.css';
+
+/* components */
+@import '../components/header.css';
+@import '../components/button.css';
+
+
+.container {
+    background-color: #73c69d;
+    padding-top: 0;
+}
+/* hero: start */
+.container.hero {
+    
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    background-color: #73c69d;
+    
+}
+.container > .row {
+    margin-top: 0;
+}
+.hero-content {
+    flex-direction: column;
+
+}
+
+.left-title {
+    display: flex;
+    flex-direction: column;
+    gap: 25px; 
+    margin-left: 30px;
+    padding-top: 35px;
+
+}
+
+.title-h4 {
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 7px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.title-h1 { 
+    color: white;
+    font-weight: 600;
+    font-size: 42px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.left-title > p {
+    
+    margin-bottom: 15px;
+    font-size: 18px;
+    line-height: 1.7em;
+   
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    opacity: .8;
+}
+
+
+/* hero: end */
+
+/* brandlogo: start */
+
+.logo-title {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-bottom: 20px;
+    
+
+}
+.logo-title > h5 {
+    text-transform: uppercase;
+    color: #73c69d;
+    font-weight: 800;
+    font-size: 14px;
+    margin: 20px 10px;
+    letter-spacing: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.logo-title > h3 {
+    text-transform: capitalize;
+    font-weight: 600;
+    font-size: 32px;
+    padding-bottom: 10px;
+}
+.section-title > p {
+    font-size: 18px;
+    font-weight: 300;
+    color: #777777;
+}
+.brand {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 20px;
+    align-items: center;
+    background: white;  
+    margin-left: 50px;
+    margin-bottom: 50px;
+    
+}
+
+.image {
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+}
+.image > a {
+    padding: 30px;
+    flex-wrap: wrap;
+}
+
+/* brandlogo: end */
+
+/* footer: start */
+.footer {
+    background-color: #73c69d;
+    display: flex;
+   
+
+    
+}
+.socials {
+    margin: 20px 20px;
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    margin-left: 60px;
+    
+}
+
+.socials > a {
+    display: flex;
+    margin: 10px;
+    color: #fff;
+    text-decoration: none;
+    align-items: center;
+}
+.copy {
+    color: #fff;
+    font-size: 20px;
+    font-weight: 200;
+    
+}
+
+/* footer: end */
