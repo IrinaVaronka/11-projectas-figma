@@ -14,7 +14,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://irinavaronka.github.io/6-projektas-coming-soon/
+Site published at: https://irinavaronka.github.io/11-projectas-figma/
 
 Design: [Start](https://www.figma.com/file/uy1jUWN0N09HSApvSTfb3q/FE-Start-Task?node-id=0%3A1)
 
